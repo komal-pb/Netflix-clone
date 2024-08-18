@@ -1,4 +1,4 @@
-Netflix CLone
+Netflix Clone
 
 ![image](https://github.com/user-attachments/assets/6ed00388-ae82-4a4d-9073-9d3c20380389)
 
